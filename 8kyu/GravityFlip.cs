@@ -22,9 +22,7 @@
 
 //My Solution
 
-using System;
-
-public class Kata
+public class GravityFlipProblem
 {
     public static int[] Flip(char dir, int[] arr)
     {

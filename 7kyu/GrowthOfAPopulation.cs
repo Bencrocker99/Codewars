@@ -29,9 +29,7 @@
 
 //My Solution
 
-using System;
-
-class Arge
+class GrowthOfAPopulationProblem
 {
 
     public static int NbYear(int p0, double percent, int aug, int p)

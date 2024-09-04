@@ -3,10 +3,7 @@
 
 //My Solution
 
-using System;
-using System.Linq;
-
-public static class Kata
+public static class ConvertBooleanValuesToStringsProblem
 {
     public static string boolToWord(bool word)
     {

@@ -9,7 +9,7 @@
 
 //My Solution
 
-public class Kata
+public class GrasshopperProblem
 {
     public static string Greet(string name, string owner)
     {

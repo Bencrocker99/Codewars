@@ -14,9 +14,8 @@
 //My Solution
 
 using System.Numerics;
-using System;
 
-public class Kata
+public class PowersOf2Problem
 {
     public static BigInteger[] PowersOfTwo(int n)
     {

@@ -9,8 +9,7 @@
 
 //My Solution
 
-using System;
-public static class Kata
+public static class MultiplesOf3Or5Problem
 {
     public static int Solution(int value)
     {

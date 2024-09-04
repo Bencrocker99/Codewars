@@ -9,7 +9,7 @@
 
 // My Solution
 
-public class Kata
+public class CreatePhoneNumberProblem
 {
     public static string CreatePhoneNumber(int[] numbers)
     {

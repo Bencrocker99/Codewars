@@ -33,9 +33,7 @@
 
 //My Solution
 
-using System;
-
-public static class Kata
+public static class ASnailEntersABarProblem
 {
     public static bool CanSnailReachEnd(double x, double y, double z)
     {

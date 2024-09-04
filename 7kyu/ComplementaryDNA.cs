@@ -14,7 +14,7 @@
 
 //My Solution
 
-public class DnaStrand
+public class ComplementaryDNAProblem
 {
     public static string MakeComplement(string dna)
     {

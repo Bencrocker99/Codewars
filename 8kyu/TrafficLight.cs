@@ -7,7 +7,7 @@
 
 //My Solution
 
-public class Kata
+public class TrafficLightProblem
 {
     public static string UpdateLight(string current)
     {

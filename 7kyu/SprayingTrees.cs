@@ -17,7 +17,7 @@
 
 // My Solution
 
-public class Kata
+public class SprayingTreesProblem
 {
     public static string Task(string w, int n, int c)
     {

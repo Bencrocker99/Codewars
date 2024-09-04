@@ -9,9 +9,7 @@
 
 //My Solution
 
-using System;
-
-public class Kata
+public class ReversedWordsProblem
 {
     public static string ReverseWords(string str)
     {

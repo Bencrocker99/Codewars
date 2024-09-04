@@ -14,9 +14,7 @@
 
 //My Solution
 
-using System;
-
-public class Kata
+public class HowManyLightsabersProblem
 {
     public static int HowManyLightsabersDoYouOwn(string name)
     {

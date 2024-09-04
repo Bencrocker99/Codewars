@@ -5,9 +5,7 @@
 
 //My Solution
 
-using System;
-
-public class LoveDetector
+public class OppositesAttractProblem
 {
     public static bool lovefunc(int flower1, int flower2)
     {

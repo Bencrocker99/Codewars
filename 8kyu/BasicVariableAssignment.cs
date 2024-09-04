@@ -3,8 +3,7 @@
 
 // My Solution
 
-using System;
-public class Kata
+public class BasicVariableAssignmentProblem
 {
     public static String A = "code";
     public static String B = "wa.rs";

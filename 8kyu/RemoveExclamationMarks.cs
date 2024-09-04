@@ -3,7 +3,7 @@
 
 //My Solution
 
-public class Kata
+public class RemoveExclamationMarksProblem
 {
     public static string RemoveExclamationMarks(string s)
     {

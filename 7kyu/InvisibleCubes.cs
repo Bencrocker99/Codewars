@@ -7,9 +7,7 @@
 
 //My Solution
 
-using System;
-
-public class Kata
+public class InvisibleCubesProblem
 {
     public static int NotVisibleCubes(int n)
     {

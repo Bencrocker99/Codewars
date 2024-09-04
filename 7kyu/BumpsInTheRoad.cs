@@ -5,7 +5,7 @@
 
 //My Solution
 
-class Kata
+class BumpsInTheRoadProblem
 {
     public static string Bump(string input)
     {

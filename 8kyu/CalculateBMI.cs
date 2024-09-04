@@ -11,7 +11,7 @@
 
 //My Solution
 
-public class Kata
+public class CalculateBMIProblem
 {
     public static string Bmi(double weight, double height)
     {

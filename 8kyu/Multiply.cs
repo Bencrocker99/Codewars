@@ -2,7 +2,7 @@
 
 // My Solution
 
-public class CustomMath
+public class MultiplyProblem
 {
     public static int multiply(int a, int b)
     {

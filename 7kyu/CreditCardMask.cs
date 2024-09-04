@@ -15,7 +15,7 @@
 
 //My Solution
 
-public static class Kata
+public static class CreditCardMaskProblem
 {
     // return masked string
     public static string Maskify(string cc)

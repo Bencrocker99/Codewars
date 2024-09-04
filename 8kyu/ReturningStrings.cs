@@ -3,9 +3,7 @@
 
 //My Solution
 
-using System;
-
-public static class Kata
+public static class ReturningStringsProblem
 {
     public static string Greet(string name)
     {

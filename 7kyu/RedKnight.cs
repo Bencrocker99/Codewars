@@ -25,7 +25,7 @@
 
 // My Solution
 
-static class CodeWars
+static class RedKnightProblem
 {
 	public static (string color, long position) RedKnight(int knight, long pawn)
 	{

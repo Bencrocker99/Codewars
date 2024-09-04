@@ -6,8 +6,7 @@
 
 //My Solution
 
-using System;
-public class Kata
+public class AppleTurnoverProblem
 {
     public static string Apple(object n)
     {

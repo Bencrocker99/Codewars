@@ -9,7 +9,7 @@
 
 //My Solution
 
-public class Kata
+public class WideMouthedFrogProblem
 {
     public static string MouthSize(string animal)
     {

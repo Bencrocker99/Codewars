@@ -10,7 +10,7 @@
 
 //My Solution
 
-public class MathCheck {
+public class AreaOrPerimeterProblem {
     public static int AreaOrPerimeter(int l, int w) {
   
       return l == w ? l * w : 2 * l + 2 * w;

@@ -41,7 +41,7 @@
 
 //My Solution
 
-public class Kata
+public class FindFirstNonConsecutiveNumberProblem
 {
     public static object FirstNonConsecutive(int[] arr)
     {

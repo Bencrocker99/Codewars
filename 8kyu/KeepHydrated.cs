@@ -15,9 +15,7 @@
 
 //My Solution
 
-using System;
-
-public class Kata
+public class KeepHydratedProblem
 {
     public static int Litres(double time)
     {

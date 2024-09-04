@@ -18,11 +18,9 @@
 
 //My Solution
 
-using System;
-
 namespace SteerTheShip
 {
-    public static class Kata
+    public static class SteerTheShipProblem
     {
         public static string Steer(double x, double y)
         {

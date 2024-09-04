@@ -12,7 +12,7 @@
 
 //My Solution
 
-class Kata
+class AllStarCode18Problem
 {
     public static int StrCount(string str, string letter)
     {

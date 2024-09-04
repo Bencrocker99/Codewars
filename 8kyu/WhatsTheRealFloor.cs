@@ -18,9 +18,7 @@
 
 //My Solution
 
-using System;
-
-public static class Kata
+public static class WhatsTheRealFloorProblem
 {
     public static int GetRealFloor(int n)
     {
